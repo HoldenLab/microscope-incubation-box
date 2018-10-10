@@ -1,0 +1,10 @@
+*.tif
+*.swp
+.*
+!.gitattributes
+!.gitignore
+*~
+*.fig
+*.png
+*.mat
+*.exe

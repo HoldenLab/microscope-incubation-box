@@ -66,13 +66,13 @@ contributors:                              # recommended
 #    affiliation: [value]                   # text
 #    email: [value]                         # email address
 
-#image: [value]                             # recommended | absolute or relative path
+image: https://raw.githubusercontent.com/HoldenLab/microscope-incubation-box/master/microscope-box.jpg                             # recommended | absolute or relative path
 
 #version: [value]                           # text
 
 #development-stage: [value]                 # text
 
-#made: [true/false]                         # boolean - true or false
+made: true                         # boolean - true or false
 
 #made-independently: [true/false]           # boolean - true or false
 

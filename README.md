@@ -1,3 +1,5 @@
+## This box has been superseded by the LifeHack repository (Incubation Box). Documentation is available on the <a href="">LifeHack website</a>.
+
 Microscope incubation box for home built single molecule microscope.
 Designed in AutoDesk CAD software.
 
@@ -7,7 +9,7 @@ We heat this system with a high precision temperature control system, "The Cube"
 
 The body plastic is 10mm Black 9961 Perspex and the Front Panel Top Window is 10mm Clear Perspex.
 
-Fabrication was by a local company, Bay Plastics Ltd, North Shields, UK and cost £1350 inc. materials. 
+Fabrication was by a local company, Bay Plastics Ltd, North Shields, UK and cost Â£1350 inc. materials. 
 
 See LICENSE.txt for license information.
 

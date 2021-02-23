@@ -1,4 +1,4 @@
-## This box has been superseded by the LifeHack repository (Incubation Box). Documentation is available on the <a href="">LifeHack website</a>.
+## This box has been superseded by the LifeHack repository (Incubation Box). Documentation is available on the <a href="https://holdenlab.github.io/LifeHackWebsite/">LifeHack website</a>.
 
 Microscope incubation box for home built single molecule microscope.
 Designed in AutoDesk CAD software.
